@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
+
         <title>实验八</title>
         <style type="text/css">
             .div{position:relative;}
@@ -24,4 +21,4 @@
             </div>
         </div>
     </body>
-</html>
+
